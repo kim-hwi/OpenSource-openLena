@@ -14,9 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-
-        <sonar.projectKey>OpenLENA_lena-ctl</sonar.projectKey>
-        <sonar.organization>openlena</sonar.organization>
+        <sonar.organization>whi345</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
